@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I'm Dan, a Computer Science and Engineering undergrad studying at UOM, Sri Lanka. 
+I'm Dan, a Computer Science and Engineering Undergraduate studying at the University of Moratuwa, Sri Lanka. 
 
 ## Also find me on...
 
