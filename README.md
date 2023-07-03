@@ -1,7 +1,7 @@
 ## Hey there! 👋
 I'm Dan, a Computer Science and Engineering Undergraduate studying at the University of Moratuwa, Sri Lanka. 
 
-## Also find me on...
+## Also find me on :
 
 <a href="https://dan-niles.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white" /> <a href="https://www.linkedin.com/in/dan-asher-niles/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://twitter.com/danasherniles" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> <a href="https://dan-niles.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
   
