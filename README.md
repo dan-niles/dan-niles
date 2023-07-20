@@ -4,12 +4,12 @@ I'm Dan, a Computer Science and Engineering undergraduate studying at the Univer
 
 ### Also find me on :
 
-<a href="https://dan-niles.github.io" target="_blank">
-<img src="https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/dan-asher-niles/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+
+<a href="https://dan-niles.github.io" target="_blank">
+<img src="https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/danasherniles" target="_blank">
@@ -18,6 +18,10 @@ I'm Dan, a Computer Science and Engineering undergraduate studying at the Univer
 
 <a href="https://dan-niles.medium.com/" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
+</a>
+
+<a href="https://www.behance.net/dan-niles" target="_blank">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Behance&color=1769FF&logo=Behance&logoColor=FFFFFF&label=" /> 
 </a>
 
 <!--
