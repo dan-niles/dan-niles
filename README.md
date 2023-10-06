@@ -8,7 +8,7 @@ I'm Dan, a Computer Science and Engineering undergraduate studying at the Univer
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 
-<a href="https://dan-niles.github.io" target="_blank">
+<a href="https://www.danniles.me/" target="_blank">
 <img src="https://img.shields.io/badge/website-000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
