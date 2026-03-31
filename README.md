@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Dan, a Computer Science and Engineering undergraduate studying at the University of Moratuwa, Sri Lanka. 
+I'm Dan, a Software Engineer at WSO2, currently part of the Integration AI team.
 
 ### Connect with me:
 
