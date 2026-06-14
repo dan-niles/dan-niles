@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Dan, a Software Engineer at WSO2, currently part of the Integration AI team.
+I'm Dan, a Software Engineer at WSO2, currently part of the Integration team.
 
 ### Connect with me:
 
